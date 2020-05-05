@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "548528956619",
+    "firebase_url": "https://shoplight-d12.firebaseio.com",
+    "project_id": "shoplight-d12",
+    "storage_bucket": "shoplight-d12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548528956619:android:8760676730a564662e274e",
+        "android_client_info": {
+          "package_name": "com.example.shoplight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548528956619-ar4r0p3pfrtqm847qalmi2undbmioa8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg-FpVLy6qqOmZGEP-9V-AqTJXR-nmkX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548528956619-ar4r0p3pfrtqm847qalmi2undbmioa8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
